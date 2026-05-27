@@ -38,7 +38,12 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```python
-# YOUR CODE HERE
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+
+img = cv2.imread(r"WhatsApp Image 2026-04-28 at 2.38.24 PM.jpeg", cv2.IMREAD_COLOR)
+img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 ```
 
 #### 2. Print the image width, height & Channel.
