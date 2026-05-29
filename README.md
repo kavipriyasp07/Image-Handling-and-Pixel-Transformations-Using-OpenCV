@@ -1,3 +1,4 @@
+### Image-Handling-and-Pixel-Transformations-Using-OpenCV
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -309,16 +310,15 @@ plt.show()
 
 - **i)** 4) Display the Colour Image & Shape
 -<img width="529" height="418" alt="download" src="https://github.com/user-attachments/assets/9d47a02e-da70-4298-87bb-5db1b5544301" />
-<img width="439" height="409" alt="download" src="https://github.com/user-attachments/assets/bce94bd3-669b-42fd-ba5f-7ec945c6d8b0" />
-<img width="150" height="43" alt="image" src="https://github.com/user-attachments/assets/5d883c6d-8ee6-4687-a6d0-b2e84b39fccd" />
+-<img width="439" height="409" alt="download" src="https://github.com/user-attachments/assets/bce94bd3-669b-42fd-ba5f-7ec945c6d8b0" />
+-<img width="150" height="43" alt="image" src="https://github.com/user-attachments/assets/5d883c6d-8ee6-4687-a6d0-b2e84b39fccd" />
 
 
 - **i)** 6) Flip the Image Horizontally
--
 <img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/7df8047e-847b-401c-adee-e070f1249930" />
 
 - **i)** 7)Add Text to Image
-- <img width="155" height="39" alt="image" src="https://github.com/user-attachments/assets/19db0ebe-c302-4691-b7bb-f33b7e9b637e" />
+<img width="155" height="39" alt="image" src="https://github.com/user-attachments/assets/19db0ebe-c302-4691-b7bb-f33b7e9b637e" />
 
 - **i)** 8) Draw Rectangle
 - <img width="344" height="708" alt="image" src="https://github.com/user-attachments/assets/b53b882b-10d5-4425-98f4-485430e9b68d" />
@@ -337,9 +337,8 @@ plt.show()
 - <img width="794" height="218" alt="download" src="https://github.com/user-attachments/assets/cae89766-071a-45f9-85df-3c9cb3770e4e" />
 - <img width="794" height="315" alt="download" src="https://github.com/user-attachments/assets/2516108d-ea71-470b-bc59-13721c880f1a" />
 - **i)** 12) Split into H, S, Vc
+- 
 -<img width="794" height="218" alt="download" src="https://github.com/user-attachments/assets/5369463a-55ba-4284-9d61-001e203924bb" />
-
-
 - **i)** 12) Merge H, S, V and display with original
 
 <img width="794" height="315" alt="download" src="https://github.com/user-attachments/assets/1e90759a-b85f-4ae8-8130-56f09c726c1d" />
